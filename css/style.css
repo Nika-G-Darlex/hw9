@@ -63,6 +63,7 @@ text-align: center;
 letter-spacing: 0.1em;
 text-transform: uppercase;
 border: none;
+cursor: pointer;
 }
 .container2{
     width: 100%;   
@@ -122,4 +123,31 @@ margin-left: 45px;
     text-align: center;
     padding-top: 100px;
     padding-bottom: 100px;
+}
+.footer{
+    width: 100%;
+    background: #34547A ;
+    box-sizing: border-box;
+    padding-top: 50px;
+   
+  
+
+}
+.name{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    color: #FFFFFF;  
+    margin-left: 406px;  
+}
+.foot{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+    color: #FFFFFF; 
+    margin-top: 20px;   
 }
