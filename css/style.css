@@ -2,12 +2,13 @@
     margin: 0;
     padding: 0;
 }
-.container{
+.container1{
     width: 100%;   
     background: #EEEFF1;
    padding-left: 400px;
    padding-top: 79px;
    box-sizing: border-box;
+   padding-bottom:141px;
    }
    .header{
     color:#34547A;
@@ -62,4 +63,24 @@ text-align: center;
 letter-spacing: 0.1em;
 text-transform: uppercase;
 border: none;
+}
+.container2{
+    width: 100%;   
+    background: #FFFFFF;
+   box-sizing: border-box;
+   padding-top: 112px;
+   padding-bottom: 100px;
+}
+.tittle1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000; 
+    text-align: center;
+    padding-bottom: 50px;
+}
+.textbox{
+    text-align: center;
 }
