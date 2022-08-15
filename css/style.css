@@ -3,12 +3,11 @@
     padding: 0;
 }
 .container1{
-    width: 100%;   
-    background: #EEEFF1;
-   padding-left: 400px;
+    max-width: 1110px;  
    padding-top: 79px;
    box-sizing: border-box;
    padding-bottom:141px;
+   margin: 0 auto;
    }
    .header{
     color:#34547A;
@@ -124,14 +123,11 @@ margin-left: 45px;
     padding-top: 100px;
     padding-bottom: 100px;
 }
-.footer{
-    width: 100%;
-    background: #34547A ;
+.container-footer{
+    max-width: 1110px;
     box-sizing: border-box;
     padding-top: 50px;
-   
-  
-
+ margin: 0 auto;
 }
 .name{
     font-family: 'Roboto';
@@ -140,7 +136,7 @@ margin-left: 45px;
     font-size: 21px;
     line-height: 25px;
     color: #FFFFFF;  
-    margin-left: 406px;  
+    
 }
 .foot{
     font-family: 'Roboto';
@@ -150,4 +146,10 @@ margin-left: 45px;
     line-height: 21px;
     color: #FFFFFF; 
     margin-top: 20px;   
+}
+.header-container{
+    background: #EEEFF1;;
+}
+.footer{
+    background: #34547A ;
 }
