@@ -1,155 +1,136 @@
-*, html, body{
+*,html,body {
     margin: 0;
     padding: 0;
-}
-.container1{
-    max-width: 1110px;  
-   padding-top: 79px;
-   box-sizing: border-box;
-   padding-bottom:141px;
-   margin: 0 auto;
-   }
-   .header{
-    color:#34547A;
-    text-transform: uppercase;
+    box-sizing: border-box;
     font-family: 'Roboto';
-    font-weight:500 ;
-    font-size: 16px;
-    letter-spacing:0.1em ;
-    display: inline-block;
     font-style: normal;
 }
-   .menu{
-    color:#000000;
-    text-transform: uppercase;
-    font-family: 'Roboto';
-    font-weight:500 ;
-    font-size: 16px;
-    letter-spacing:0.1em ;
-    display: inline-block;
-   padding-left: 42px;
-    font-style: normal;
+
+.container1 {
+    max-width: 1110px;
+    padding-top: 79px;
+    padding-bottom: 141px;
+    margin: 0 auto;
 }
-.tittle{
+
+.header {
+    color: #34547A;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 0.1em;
+    display: inline-block;
+}
+
+.menu {
     color: #000000;
-    font-family: 'Roboto';
-    font-weight:500 ;
-    font-size: 48px;
-    font-style: normal;
-    margin-top:162px ;
-padding-bottom: 60px;
-}
-.text{
-    color: #727272;
-    font-family: 'Roboto';
-    font-weight:400 ;
+    text-transform: uppercase;
+    font-weight: 500;
     font-size: 16px;
-    font-style: normal;   
-   line-height: 26px;
-   padding-bottom: 65px;
+    letter-spacing: 0.1em;
+    display: inline-block;
+    padding-left: 42px;
 }
-.write{
+
+.tittle {
+    color: #000000;
+    font-weight: 500;
+    font-size: 48px;
+    margin-top: 162px;
+    padding-bottom: 60px;
+}
+
+.text {
+    color: #727272;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    padding-bottom: 65px;
+}
+
+.write {
     width: 225px;
     height: 65px;
- background:#34547A ;  
- color:#FFFFFF ; 
- font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 26px;
-text-align: center;
-letter-spacing: 0.1em;
-text-transform: uppercase;
-border: none;
-cursor: pointer;
+    background: #34547A;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    border: none;
+    cursor: pointer;
 }
-.container2{
-    width: 100%;   
+
+.container2 {
+    width: 100%;
     background: #FFFFFF;
-   box-sizing: border-box;
-   padding-top: 112px;
- padding-bottom: 35px;
+    padding-top: 112px;
+    padding-bottom: 35px;
+    text-align: center;
 }
-.tittle1{
-    font-family: 'Roboto';
-    font-style: normal;
+
+.tittle1 {
     font-weight: 500;
     font-size: 32px;
     line-height: 38px;
-    color: #000000; 
-    text-align: center;
+    color: #000000;
     padding-bottom: 50px;
 }
-.textbox{
+.container3 {
+    width: 100%;
+    background: #34547A;
+    padding-top: 100px;
     text-align: center;
+    padding-bottom: 100px;
 }
-.container3{
-width: 100%;
-background:#34547A;    
-box-sizing: border-box;
-padding-top: 100px;
-text-align: center;
-padding-bottom: 100px;
-
-}
-.text1{
-    font-family: 'Roboto';
-    font-style: normal;
+.text1 {
     font-weight: 500;
     font-size: 21px;
     line-height: 25px;
     color: #FFFFFF;
-   display: inline-block;    
-   margin-left: 20px;
+    display: inline-block;
+    margin-left: 20px;
 }
-.span{
-    font-family: 'Roboto';
-    font-style: normal;
+.span {
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
-    color: #FFFFFF;    
+    color: #FFFFFF;
 }
-.menu2{
-display: inline-block;
-margin-left: 45px;
+.menu2 {
+    display: inline-block;
+    margin-left: 45px;
 }
-.container4{
+.container4 {
     width: 100%;
-    box-sizing: border-box;
     background: #EEEFF1;
     text-align: center;
     padding-top: 100px;
     padding-bottom: 100px;
 }
-.container-footer{
+.container-footer {
     max-width: 1110px;
-    box-sizing: border-box;
     padding-top: 50px;
- margin: 0 auto;
+    margin: 0 auto;
 }
-.name{
-    font-family: 'Roboto';
-    font-style: normal;
+.name {
     font-weight: 500;
     font-size: 21px;
     line-height: 25px;
-    color: #FFFFFF;  
-    
+    color: #FFFFFF;
 }
-.foot{
-    font-family: 'Roboto';
-    font-style: normal;
+.foot {
     font-weight: 400;
     font-size: 13px;
     line-height: 21px;
-    color: #FFFFFF; 
-    margin-top: 20px;   
+    color: #FFFFFF;
+    margin-top: 20px;
 }
-.header-container{
-    background: #EEEFF1;;
+.header-container {
+    background: #EEEFF1;
 }
-.footer{
-    background: #34547A ;
+.footer {
+    background: #34547A;
 }
